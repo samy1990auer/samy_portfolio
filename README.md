@@ -1,5 +1,5 @@
 # samy_portfolio
 Software Controls Engineer 
 <div>
-  <h1>samy </h1>
+  <h1><span>Samy Timalsina</span></h1>
  </div>

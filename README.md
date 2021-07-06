@@ -1,7 +1,7 @@
 
 <div>
   <div>
-    <link rel="stylesheet" href="design.css">
+    <link rel="stylesheet" href="samy_portfolio/design.css">
     <ul>
   <li><a href="default.asp">Home</a></li>
   <li><a href="news.asp">News</a></li>
